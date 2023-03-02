@@ -3,7 +3,7 @@ package pkgmodb3
 import (
 	"fmt"
 
-	"github.com/EnricoPicci/go-class-dep-mgmt-mod-c/pkgmodc"
+	"github.com/EnricoPicci/modc/pkgmodc"
 )
 
 func ApiThatCallsModuleCApiThatCallsModuleDApi() {
